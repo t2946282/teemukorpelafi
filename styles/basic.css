@@ -1,0 +1,116 @@
+BODY {
+  margin-left: 2%;
+  color: black;
+  background: white;
+  font-family: verdana, "courier new" , "news gothic", arial, helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 0.9em;
+}
+
+P, DL, UL, OL;  {
+  margin-left: 0%;
+  margin-right: 10%;
+  font-family: "courier new", "news gothic", arial, helvetica, sans-serif;
+  color: black;
+  background: transparent;
+  text-align: justify;
+}
+
+LI {
+  white-space: normal;
+  list-style: square outside;
+  margin-left: 3%;
+  margin-right: 10%;
+  font-size: 0.9em;
+  font-family: verdana, "courier new", "news gothic", arial, helvetica, sans-serif;
+  background: transparent;
+}
+
+H1 {
+  background: transparent;
+  margin-top: 14pt;
+  margin-bottom: 8pt;
+  max-width: 600px;
+  font-weight: bold;
+  text-align: center;
+  font: normal 11pt Palatino, "Palatino Linotype";
+  font-size: 1.6em;
+  font-weight: normal;
+  color: #480411;
+}
+
+H2, H3, H4, H5 {
+  margin-left: 0%;
+  margin-right: 10%
+  max-width: 600px;;
+  background: white;
+  font: normal 11pt Palatino, "Palatino Linotype";
+  font-weight: normal;
+  color: #480411;
+  font-size: 1.4em;
+}
+
+SMALL {
+  margin-left: 0%;  
+  font-family: Trebuchet MS, Tahoma, Arial, Helvetica;
+  font-size: 0.8em;
+  color: black;
+  background: white;
+  font-style: normal;
+}
+
+ADDRESS {
+  margin-left: 6%;
+  font-family: "courier new", "news gothic", arial, helvetica, sans-serif;
+  color: gray;
+  background: white;
+  font-style: normal;
+}
+
+STRONG {
+  font-weight: bold; 
+}   
+
+EM, I {   
+  font-style: italic;
+  margin-left: 0%;
+  margin-right: 10%
+  max-width: 600px;;
+}
+
+BLOCKQUOTE, CITE { 
+  margin-left: 10%;
+  margin-right: 10%;
+  color: blue;
+  background: transparent;
+  font-family: "times new roman", times, garamond, serif;
+  font-size: 1.0em;
+  font-style: italic;
+}
+
+IMG { 
+  margin-left: 2%;
+  margin-right: 2%;
+  background: transparent;
+}
+
+CODE, PRE {
+  background: #eeeeee;
+  border: 1px solid #888888;
+  color: black;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  white-space: pre;
+  margin-left: 3%;
+  margin-right: 6%;
+  color: black;
+  font-size: 1.0em;
+}
+
+INPUT {
+  background: white;
+}
+
+
+
